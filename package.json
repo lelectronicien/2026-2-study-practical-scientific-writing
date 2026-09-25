@@ -6,9 +6,12 @@
   "repository": "git@github.com:yamadharma/course-directory-student-template.git",
   "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
   "license": "CC-BY-4.0",
-    "config": {
-	"commitizen": {
-	    "path": "cz-customizable"
-	}
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
     }
+  },
+  "devDependencies": {
+    "standard-changelog": "^8.1.0"
+  }
 }
