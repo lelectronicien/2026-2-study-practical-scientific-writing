@@ -1,3 +1,5 @@
+# [1.5.0](https://github.com/yamadharma/course-directory-student-template/compare/v4.0.0...v1.5.0) (2026-10-23)
+
 # [1.5.0](https://github.com/yamadharma/course-directory-student-template/compare/v3.0.0...v1.5.0) (2026-10-23)
 
 ### Features
