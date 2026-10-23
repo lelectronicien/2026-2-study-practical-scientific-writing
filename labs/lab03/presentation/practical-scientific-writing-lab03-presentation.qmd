@@ -14,7 +14,7 @@ author:
 
 ## Title
 title: "Лабораторная работа №3"
-subtitle: "Набор математических формул в LaTeX"
+subtitle: "Mathematics Typing"
 license: "CC BY"
 date: today
 date-format: "YYYY-MM-DD"
@@ -35,26 +35,22 @@ date-format: "YYYY-MM-DD"
 Строчная(inline) формула:
 
 ```latex
-$y = mx + c$
+A sentence with inline mathematics:  $y = mx + c$
 ```
 
-Результат:
-
-$y = mx + c$
+A sentence with inline mathematics: y = mx + c
 
 Выключная(display) формула:
 
 ```latex
+A sentence with display mathematics: 
 \[
 y = mx + c
 \]
 ```
 
-$$
-y = mx + c
-$$
 
-## Индексы и функции
+## Индексы и Степень
 
 ```latex
 $a^{b}$
