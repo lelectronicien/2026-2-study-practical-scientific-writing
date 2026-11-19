@@ -1,7 +1,5 @@
-# [1.5.0](https://github.com/yamadharma/course-directory-student-template/compare/v3.0.0...v1.5.0) (2026-10-23)
+# [6.0.0](https://gitverse.ru/ricklubin/2026-2-study-practical-scientific-writing/compare/v5.0.0...v6.0.0) (2026-11-19)
 
 ### Features
 
-* **main:** report and presentation lab04 ([1871871](https://github.com/yamadharma/course-directory-student-template/commit/187187133ebe3adddd144947d405a5651b650192))
-
-# 1.5.0 (2026-09-25)
+* **main:** report and presentation lab06 ([fe1313a](https://gitverse.ru/ricklubin/2026-2-study-practical-scientific-writing/commits/fe1313a2117b3b7f7ee9e821de826e1d057dbd22))
